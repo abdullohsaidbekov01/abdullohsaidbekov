@@ -58,7 +58,7 @@ Analysis of health expenditure as a percentage of national GDP, exploring trends
 ---
 
 ### 📊 Business Analysis
-**Power BI • Excel • **
+**Power BI • Excel • Python**
 
 Analysis of product sales and performance using business data.
 
